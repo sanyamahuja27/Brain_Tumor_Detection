@@ -1,1 +1,1 @@
-# Brain_Tumor_Detection
+# Brain_tumor_detection
